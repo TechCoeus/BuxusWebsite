@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/BuxusWebsite/static/css/main.c61fe05b.css",
-    "main.js": "/BuxusWebsite/static/js/main.f5c5fbba.js",
-    "static/media/MainLandingPageHero.png": "/BuxusWebsite/static/media/MainLandingPageHero.30b380787ef7adb09eb6.png",
+    "main.js": "/BuxusWebsite/static/js/main.590ac53e.js",
     "static/media/AgencyLandingPage.jpeg": "/BuxusWebsite/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
     "static/media/HotelTravelLandingPage.jpeg": "/BuxusWebsite/static/media/HotelTravelLandingPage.7cba2215c02e6e82fc39.jpeg",
     "static/media/PrivacyPolicyPage.jpeg": "/BuxusWebsite/static/media/PrivacyPolicyPage.87eaa1f87d0f370b9a87.jpeg",
@@ -58,7 +57,6 @@
     "static/media/svg-decorator-blob-8.svg": "/BuxusWebsite/static/media/svg-decorator-blob-8.46d53f6b637ec792eff69fa98170e560.svg",
     "static/media/svg-decorator-blob-7.svg": "/BuxusWebsite/static/media/svg-decorator-blob-7.04fa60c9416090a003233f93c9de14b1.svg",
     "static/media/user-plus.svg": "/BuxusWebsite/static/media/user-plus.7df9a289df2eaf4229e6091b340a9799.svg",
-    "static/media/radio.svg": "/BuxusWebsite/static/media/radio.597e1dfdc8fb7f6ca87d60a206b48cfb.svg",
     "static/media/youtube-icon.svg": "/BuxusWebsite/static/media/youtube-icon.10cce4d9ddf73bc36fc6b15d5639c0ff.svg",
     "static/media/arrow-right-2-icon.svg": "/BuxusWebsite/static/media/arrow-right-2-icon.dd6a8f821d9b31a85c9dd61099fe3b70.svg",
     "static/media/log-in.svg": "/BuxusWebsite/static/media/log-in.26463742329bbcff0cc5bfdfc7459026.svg",
@@ -91,12 +89,11 @@
     "static/media/facebook-icon.svg": "/BuxusWebsite/static/media/facebook-icon.8f6512c4ee4f21763666f0f3b69d970d.svg",
     "static/media/arrow-left-3-icon.svg": "/BuxusWebsite/static/media/arrow-left-3-icon.d48c6bae447f4492e1860f8a253007c8.svg",
     "static/media/arrow-right-3-icon.svg": "/BuxusWebsite/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
-    "static/media/handle-icon.svg": "/BuxusWebsite/static/media/handle-icon.75eb6395a03cd55833f64fd24df39ff5.svg",
     "main.c61fe05b.css.map": "/BuxusWebsite/static/css/main.c61fe05b.css.map",
-    "main.f5c5fbba.js.map": "/BuxusWebsite/static/js/main.f5c5fbba.js.map"
+    "main.590ac53e.js.map": "/BuxusWebsite/static/js/main.590ac53e.js.map"
   },
   "entrypoints": [
     "static/css/main.c61fe05b.css",
-    "static/js/main.f5c5fbba.js"
+    "static/js/main.590ac53e.js"
   ]
 }
