@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BuxusWebsite/static/css/main.c61fe05b.css",
-    "main.js": "/BuxusWebsite/static/js/main.590ac53e.js",
+    "main.js": "/BuxusWebsite/static/js/main.159c2ae3.js",
     "static/media/AgencyLandingPage.jpeg": "/BuxusWebsite/static/media/AgencyLandingPage.717f8ed6737d6161b153.jpeg",
     "static/media/HotelTravelLandingPage.jpeg": "/BuxusWebsite/static/media/HotelTravelLandingPage.7cba2215c02e6e82fc39.jpeg",
     "static/media/PrivacyPolicyPage.jpeg": "/BuxusWebsite/static/media/PrivacyPolicyPage.87eaa1f87d0f370b9a87.jpeg",
@@ -90,10 +90,10 @@
     "static/media/arrow-left-3-icon.svg": "/BuxusWebsite/static/media/arrow-left-3-icon.d48c6bae447f4492e1860f8a253007c8.svg",
     "static/media/arrow-right-3-icon.svg": "/BuxusWebsite/static/media/arrow-right-3-icon.d415f77e8dc81ff77fdb53c0ee2da771.svg",
     "main.c61fe05b.css.map": "/BuxusWebsite/static/css/main.c61fe05b.css.map",
-    "main.590ac53e.js.map": "/BuxusWebsite/static/js/main.590ac53e.js.map"
+    "main.159c2ae3.js.map": "/BuxusWebsite/static/js/main.159c2ae3.js.map"
   },
   "entrypoints": [
     "static/css/main.c61fe05b.css",
-    "static/js/main.590ac53e.js"
+    "static/js/main.159c2ae3.js"
   ]
 }
