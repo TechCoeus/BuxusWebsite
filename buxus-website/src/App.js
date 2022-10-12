@@ -117,11 +117,11 @@ export default function App() {
       <GlobalStyles />
       <Router>
         <Routes>
-          <Route path="/BuxusWebsite/components/:type/:subtype/:name" element={<ComponentRenderer />} />
-          <Route path="/BuxusWebsite/components/:type/:name" element={<ComponentRenderer />} />
+          <Route path="/components/:type/:subtype/:name" element={<ComponentRenderer />} />
+          <Route path="/components/:type/:name" element={<ComponentRenderer />} />
           <Route path="/thank-you" element={<ThankYouPage />} />
           {/* <Route path="/" element={<MainLandingPage />} /> */}
-          <Route path="/BuxusWebsite" element={<HostingCloudLandingPage />} />
+          <Route path="/" element={<HostingCloudLandingPage />} />
         </Routes>
       </Router>
     </>
